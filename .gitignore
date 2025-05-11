@@ -5,5 +5,9 @@
 *.cubin
 *.fatbin
 .DS_Store
+*.o
+
 
 __pycache__/
+.mypy_cache/
+build/
